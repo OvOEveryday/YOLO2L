@@ -1,0 +1,8 @@
+path: data/dataset_de
+train: images/train
+#val: images/val
+val: images/val
+test: images/test
+
+names:
+  0: landslide
